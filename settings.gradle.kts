@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "NavigationSample"
 include(":app")
 include(":screenhost")
+include(":screen1")
+include(":screen2")
